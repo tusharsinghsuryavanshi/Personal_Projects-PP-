@@ -1,6 +1,6 @@
 # Transforming Data with Python
 
-This folder contains files created/used for the guided project at www.dataquest.io. The focus of this exercise is to write scripts that import functions from other python files and then run them on the command line.
+This folder contains files created/used for the  project . The focus of this exercise is to write scripts that import functions from other python files and then run them on the command line.
 
 -------------------------------------------------------------------------------------------------------------
 ### hn_stories.csv
